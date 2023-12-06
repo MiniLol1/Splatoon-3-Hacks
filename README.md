@@ -21,6 +21,6 @@ after save the file to sdcard\atmosphere\contents\0100C2500FC20000\romfs\RSDB an
 
  If you did it correctly, you now have the badges you want and you still have the badges you are replacing.
 
-if you have any quetions you ask to me on Discord:minilol1
+if you have any quetions you can ask to me on Discord:minilol1
 
 Hope it's help you
