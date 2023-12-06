@@ -1,5 +1,5 @@
 # Tutorial how to get any badges on Splatoon 3
-
+!!YOU WILL GET BAN IF YOU DO THIS SO DO IT ON A EMULATOR OR BANNED SWITCH I AM NOT RESPONSABLE IF YOU GET BANNED!!
 
 
 First you need ToolBox https://github.com/KillzXGaming/Switch-Toolbox
